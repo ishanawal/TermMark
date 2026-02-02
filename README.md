@@ -4,7 +4,7 @@
 
 ---
 
-### ✨ Features
+### Features
 
 - **Headings** with proper hierarchy and bold styling
 - **Bold**, _italic_, and `inline code` rendering
@@ -18,16 +18,16 @@
 
 ---
 
-### 🛠️ Getting Started
+### Getting Started
 
-#### 🧪 Install via Homebrew
+#### Install via Homebrew
 
 ```sh
 brew tap ishanawal/tap
 brew install termmark
 ```
 
-#### 🔧 Build Instructions
+#### Build Instructions
 
 Make sure you have a C++17+ compatible compiler. Then:
 
@@ -42,7 +42,7 @@ make
 
 ---
 
-### 🧪 Usage
+### Usage
 
 You can render Markdown content in the terminal:
 
@@ -78,7 +78,7 @@ Use the flags:
 
 ---
 
-### 📁 Project Structure
+### Project Structure
 
 ```bash
 TERMMARK/
@@ -101,20 +101,20 @@ TERMMARK/
 
 ---
 
-### 📦 Dependencies
+### Dependencies
 
 - **Standard C++ STL only** — No external dependencies!
 
 ---
 
-### 📌 Future Plans
+### Future Plans
 
 - [ ] Support Nested List
 - [ ] Color themes or syntax highlighting
 
 ---
 
-### 👨‍💻 Author
+### Author
 
 Built with ❤️ by [Ishan Awal](https://github.com/ishanawal)
 
@@ -122,7 +122,7 @@ If you like it, consider ⭐️ starring the repo!
 
 ---
 
-### 🧾 License
+### License
 
 This project is licensed under the MIT License.
 See the [LICENSE](./LICENSE) file for details.
